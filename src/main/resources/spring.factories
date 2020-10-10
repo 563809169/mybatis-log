@@ -1,1 +1,1 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.aden.log.LogAutoConfig
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=log.LogAutoConfig
